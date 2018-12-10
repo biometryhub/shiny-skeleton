@@ -9,6 +9,7 @@
 In order to run the skeleton application, you'll at least the following
 dependencies installed:
 
+- `ggplot2` (`~3.1`)
 - `shiny` (`~1.2`)
 - `shinydashboard` (`~0.7.1`)
 
