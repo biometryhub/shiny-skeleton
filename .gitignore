@@ -1,0 +1,35 @@
+# R
+
+## History Files
+.Rhistory
+.Rapp.history
+
+## Session Data Files
+.RData
+wesbos.com
+## Example Code in Package Build Process
+*-Ex.R
+
+## Output Files from R CMD Build
+/*.tar.gz
+
+## Output Files from R CMD Check
+/*.Rcheck/
+
+## RStudio Files
+.Rproj.user
+
+## Produced Vignettes
+vignettes/*.html
+vignettes/*.pdf
+
+## OAuth2 Token
+.httr-oauth
+
+## Default Cache Directories
+/*_cache/
+/cache/
+
+## Temporary Files Created by R Markdown
+*.utf8.md
+*.knit.md
